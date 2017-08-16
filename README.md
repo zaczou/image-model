@@ -1,6 +1,6 @@
 # image-model
 
-## paper
+## large model
  - **Densely Connected Convolutional Networks** [[paper]](https://arxiv.org/abs/1608.06993) [[original]](https://github.com/liuzhuang13/DenseNet) [[keras]](https://github.com/titu1994/DenseNet)
  - **Xception: Deep Learning with Depthwise Separable Convolutions** [[paper]](https://arxiv.org/abs/1610.02357) 
  - **Dual Path Networks** [[paper]](https://arxiv.org/abs/1707.01629) [[mxnet(original)]](https://github.com/cypw/DPNs) [[pytorch]](https://github.com/oyam/pytorch-DPNs) [[keras]](https://github.com/titu1994/Keras-DualPathNetworks)
